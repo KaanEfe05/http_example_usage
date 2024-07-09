@@ -1,0 +1,25 @@
+{
+  "name": "Kütük",
+  "surname": "Odun",
+  "age": 20,
+  "major": "Makinist",
+  "ObjectValue": {
+    "stringValue": "example string",
+    "numberValue": 42,
+    "objectValue": {
+      "key": "value"
+    },
+    "nullValue": null,
+    "trueValue": true,
+    "falseValue": false,
+    "arrayValue": [
+      1,
+      "two",
+      null,
+      true,
+      {
+        "key": "value"
+      }
+    ]
+  }
+}
